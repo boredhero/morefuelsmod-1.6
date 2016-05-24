@@ -1,0 +1,30 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+
+# other
+eclipse
+run
+
+/MinecraftForge-Credits.txt
+/MinecraftForge-License.txt
+/Paulscode SoundSystem CodecIBXM License.txt
+/Paulscode IBXM Library License.txt
+/LICENSE-fml.txt
+/CREDITS-fml.txt
+/morefuelsmod_Server.launch
+/morefuelsmod_Client.launch
+/forge-1.6.4-9.11.1.964-changelog.txt

@@ -1,0 +1,16 @@
+[
+{
+  "modid": "morefuelsmod-1.6.4",
+  "name": "§4§lMore Fuels Mod",
+  "description": "§6§oA mod that makes more items usable as fuel.",
+  "version": "§6",
+  "mcversion": "1.6.4",
+  "url": "http://tinyurl.com/MoreFuelsMod",
+  "updateUrl": "",
+  "authors": ["§4B§6o§4r§6e§4d"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
