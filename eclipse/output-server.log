@@ -113,3 +113,35 @@
 2016-05-23 19:48:47 [SERVER] [INFO] Saving chunks for level '1.6.test'/Overworld
 2016-05-23 19:48:47 [SERVER] [INFO] Saving chunks for level '1.6.test'/Nether
 2016-05-23 19:48:47 [SERVER] [INFO] Saving chunks for level '1.6.test'/The End
+2016-05-23 21:09:14 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2016-05-23 21:09:14 [SERVER] [INFO] Generating keypair
+2016-05-23 21:09:14 [SERVER] [INFO] Preparing start region for level 0
+2016-05-23 21:09:14 [SERVER] [INFO] Player140[/127.0.0.1:0] logged in with entity id 17 at (786.4623872789566, 4.0, -59.38412859978478)
+2016-05-23 21:09:14 [SERVER] [INFO] Player140 joined the game
+2016-05-23 21:09:34 [SERVER] [INFO] Saving and pausing game...
+2016-05-23 21:09:34 [SERVER] [INFO] Saving chunks for level '1.6.test'/Overworld
+2016-05-23 21:09:34 [SERVER] [INFO] Saving chunks for level '1.6.test'/Nether
+2016-05-23 21:09:34 [SERVER] [INFO] Saving chunks for level '1.6.test'/The End
+2016-05-23 21:09:50 [SERVER] [INFO] Stopping server
+2016-05-23 21:09:50 [SERVER] [INFO] Saving players
+2016-05-23 21:09:50 [SERVER] [INFO] Player140 left the game
+2016-05-23 21:09:50 [SERVER] [INFO] Saving worlds
+2016-05-23 21:09:50 [SERVER] [INFO] Saving chunks for level '1.6.test'/Overworld
+2016-05-23 21:09:50 [SERVER] [INFO] Saving chunks for level '1.6.test'/Nether
+2016-05-23 21:09:50 [SERVER] [INFO] Saving chunks for level '1.6.test'/The End
+2016-05-23 21:11:16 [SERVER] [INFO] Starting integrated minecraft server version 1.6.4
+2016-05-23 21:11:16 [SERVER] [INFO] Generating keypair
+2016-05-23 21:11:16 [SERVER] [INFO] Preparing start region for level 0
+2016-05-23 21:11:16 [SERVER] [INFO] Player671[/127.0.0.1:0] logged in with entity id 18 at (783.064285072058, 4.0, -60.48473135460208)
+2016-05-23 21:11:16 [SERVER] [INFO] Player671 joined the game
+2016-05-23 21:11:24 [SERVER] [INFO] Saving and pausing game...
+2016-05-23 21:11:24 [SERVER] [INFO] Saving chunks for level '1.6.test'/Overworld
+2016-05-23 21:11:24 [SERVER] [INFO] Saving chunks for level '1.6.test'/Nether
+2016-05-23 21:11:24 [SERVER] [INFO] Saving chunks for level '1.6.test'/The End
+2016-05-23 21:11:24 [SERVER] [INFO] Stopping server
+2016-05-23 21:11:24 [SERVER] [INFO] Saving players
+2016-05-23 21:11:24 [SERVER] [INFO] Player671 left the game
+2016-05-23 21:11:24 [SERVER] [INFO] Saving worlds
+2016-05-23 21:11:24 [SERVER] [INFO] Saving chunks for level '1.6.test'/Overworld
+2016-05-23 21:11:24 [SERVER] [INFO] Saving chunks for level '1.6.test'/Nether
+2016-05-23 21:11:24 [SERVER] [INFO] Saving chunks for level '1.6.test'/The End
