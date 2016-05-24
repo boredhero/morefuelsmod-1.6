@@ -19,7 +19,7 @@ public class Main
     public static final String VERSION = "1.3.1-alpha";
     public static final String MODNAME = "More Fuels Mod";
     
-    
+    @EventHandler
     public void preinit(FMLPreInitializationEvent event){
     	Configuration config = new Configuration(event.getSuggestedConfigurationFile());
     	config.load();
@@ -27,11 +27,11 @@ public class Main
     	if(enableRFtLrecipe)
     		GameRegistry.addSmelting(367, new ItemStack(Item.leather), 0.3F);
     	config.save();
-    	
     }
     @EventHandler
     public void init(FMLInitializationEvent event)
     {
 		GameRegistry.registerFuelHandler(new Fuels());
+		
     }
 }
