@@ -67,9 +67,7 @@ public class Fuels implements IFuelHandler {
 			return 120;
 		}
 		//Grass
-		if(fuel.getItem() == Item.itemsList[31]){
-			return 100;
-		}
+		if(fuel.getItem() == Item.itemsList[31])
 		return 0;
 	}
 

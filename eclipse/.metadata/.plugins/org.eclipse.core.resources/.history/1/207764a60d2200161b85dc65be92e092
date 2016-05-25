@@ -58,18 +58,7 @@ public class Fuels implements IFuelHandler {
 		if(fuel.getItem() == Item.itemsList[81]){
 			return 300;
 		}
-		//Cobweb
-		if(fuel.getItem() == Item.itemsList[30]){
-			return 160;
-		}
-		//Lever
-		if(fuel.getItem() == Item.itemsList[69]){
-			return 120;
-		}
-		//Grass
-		if(fuel.getItem() == Item.itemsList[31]){
-			return 100;
-		}
+		
 		return 0;
 	}
 
