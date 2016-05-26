@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="ASCII"?>
 <application:Application xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:advanced="http://www.eclipse.org/ui/2010/UIModel/application/ui/advanced" xmlns:application="http://www.eclipse.org/ui/2010/UIModel/application" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/ui/basic" xmlns:menu="http://www.eclipse.org/ui/2010/UIModel/application/ui/menu" xmi:id="_nyYCAB1WEeaLvvzwN1x1SQ" elementId="org.eclipse.e4.legacy.ide.application" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_nyYCAR1WEeaLvvzwN1x1SQ" bindingContexts="_nyZRtB1WEeaLvvzwN1x1SQ">
-  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;Minecraft/src/main/java/com/bored/morefuelsmod/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/bored/morefuelsmod/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.buildship.ui.gradlebuildscripteditor&quot; name=&quot;build.gradle&quot; tooltip=&quot;Minecraft/build.gradle&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/build.gradle&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;mcmod.info&quot; tooltip=&quot;Minecraft/src/main/resources/mcmod.info&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/resources/mcmod.info&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Fuels.java&quot; tooltip=&quot;Minecraft/src/main/java/com/bored/morefuelsmod/Fuels.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/bored/morefuelsmod/Fuels.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.internal.JarEntryEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;apple_golden.png&quot; tooltip=&quot;C:\Users\Noah\.gradle\caches\minecraft\net\minecraftforge\forge\1.6.4-9.11.1.964\forge-1.6.4-9.11.1.964-mcp.jar\assets\minecraft\textures\items\apple_golden.png&quot;>&#xD;&#xA;&lt;persistable element=&quot;=Minecraft/C:\/Users\/Noah\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.6.4-9.11.1.964\/forge-1.6.4-9.11.1.964-mcp.jar&amp;lt;assets.minecraft.textures.items&quot; path=&quot;apple_golden.png&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
+  <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;mcmod.info&quot; tooltip=&quot;Minecraft/src/main/resources/mcmod.info&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/resources/mcmod.info&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; tooltip=&quot;Minecraft/src/main/java/com/bored/morefuelsmod/Main.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/bored/morefuelsmod/Main.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.buildship.ui.gradlebuildscripteditor&quot; name=&quot;build.gradle&quot; tooltip=&quot;Minecraft/build.gradle&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/build.gradle&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Fuels.java&quot; tooltip=&quot;Minecraft/src/main/java/com/bored/morefuelsmod/Fuels.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Minecraft/src/main/java/com/bored/morefuelsmod/Fuels.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.jdt.ui.internal.JarEntryEditorInputFactory&quot; id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;apple_golden.png&quot; tooltip=&quot;C:\Users\Noah\.gradle\caches\minecraft\net\minecraftforge\forge\1.6.4-9.11.1.964\forge-1.6.4-9.11.1.964-mcp.jar\assets\minecraft\textures\items\apple_golden.png&quot;>&#xD;&#xA;&lt;persistable element=&quot;=Minecraft/C:\/Users\/Noah\/.gradle\/caches\/minecraft\/net\/minecraftforge\/forge\/1.6.4-9.11.1.964\/forge-1.6.4-9.11.1.964-mcp.jar&amp;lt;assets.minecraft.textures.items&quot; path=&quot;apple_golden.png&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
   <children xsi:type="basic:TrimmedWindow" xmi:id="_nyYCAR1WEeaLvvzwN1x1SQ" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_nyYCAh1WEeaLvvzwN1x1SQ" label="%trimmedwindow.label.eclipseSDK" x="633" y="0" width="654" height="991">
@@ -11,6 +11,7 @@
     <persistedState key="aggregateWorkingSetId" value="Aggregate for window 1463608483554"/>
     <persistedState key="show_in_time" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;show_in_time/>"/>
     <tags>topLevel</tags>
+    <tags>shellMaximized</tags>
     <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCAh1WEeaLvvzwN1x1SQ" selectedElement="_nyYCAx1WEeaLvvzwN1x1SQ" horizontal="true">
       <children xsi:type="advanced:PerspectiveStack" xmi:id="_nyYCAx1WEeaLvvzwN1x1SQ" elementId="org.eclipse.ui.ide.perspectivestack" containerData="7500" selectedElement="_nyYCBB1WEeaLvvzwN1x1SQ">
         <children xsi:type="advanced:Perspective" xmi:id="_nyYCBB1WEeaLvvzwN1x1SQ" elementId="org.eclipse.jdt.ui.JavaPerspective" selectedElement="_nyYCBR1WEeaLvvzwN1x1SQ" label="Java" iconURI="platform:/plugin/org.eclipse.jdt.ui/$nl$/icons/full/eview16/jperspective.png">
@@ -73,7 +74,7 @@
           <tags>persp.viewSC:org.eclipse.wb.core.StructureView</tags>
           <tags>persp.viewSC:org.eclipse.wb.core.PaletteView</tags>
           <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCBR1WEeaLvvzwN1x1SQ" selectedElement="_nyYCER1WEeaLvvzwN1x1SQ" horizontal="true">
-            <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCBh1WEeaLvvzwN1x1SQ" containerData="1000" selectedElement="_nyYCBx1WEeaLvvzwN1x1SQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCBh1WEeaLvvzwN1x1SQ" containerData="2143" selectedElement="_nyYCBx1WEeaLvvzwN1x1SQ">
               <children xsi:type="basic:PartStack" xmi:id="_nyYCBx1WEeaLvvzwN1x1SQ" elementId="left" containerData="6000" selectedElement="_nyYCCB1WEeaLvvzwN1x1SQ">
                 <tags>org.eclipse.e4.primaryNavigationStack</tags>
                 <children xsi:type="advanced:Placeholder" xmi:id="_nyYCCB1WEeaLvvzwN1x1SQ" elementId="org.eclipse.jdt.ui.PackageExplorer" ref="_nyYq5x1WEeaLvvzwN1x1SQ"/>
@@ -88,7 +89,7 @@
                 <children xsi:type="advanced:Placeholder" xmi:id="_nyYCEB1WEeaLvvzwN1x1SQ" elementId="org.eclipse.egit.ui.RepositoriesView" toBeRendered="false" ref="_nyYrlR1WEeaLvvzwN1x1SQ"/>
               </children>
             </children>
-            <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCER1WEeaLvvzwN1x1SQ" containerData="9000" selectedElement="_nyYCEh1WEeaLvvzwN1x1SQ">
+            <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCER1WEeaLvvzwN1x1SQ" containerData="7857" selectedElement="_nyYCEh1WEeaLvvzwN1x1SQ">
               <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCEh1WEeaLvvzwN1x1SQ" containerData="7500" selectedElement="_nyYCEx1WEeaLvvzwN1x1SQ" horizontal="true">
                 <children xsi:type="advanced:Placeholder" xmi:id="_nyYCEx1WEeaLvvzwN1x1SQ" elementId="org.eclipse.ui.editorss" containerData="8867" ref="_nyYqJh1WEeaLvvzwN1x1SQ"/>
                 <children xsi:type="basic:PartSashContainer" xmi:id="_nyYCFB1WEeaLvvzwN1x1SQ" containerData="1133" selectedElement="_nyYCFx1WEeaLvvzwN1x1SQ">
@@ -140,28 +141,6 @@
         <tags>org.eclipse.e4.primaryDataStack</tags>
         <tags>EditorStack</tags>
         <tags>active</tags>
-        <children xsi:type="basic:Part" xmi:id="_nyYqKB1WEeaLvvzwN1x1SQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Main.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Main.java&quot; partName=&quot;Main.java&quot; title=&quot;Main.java&quot; tooltip=&quot;Minecraft/src/main/java/com/bored/morefuelsmod/Main.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/java/com/bored/morefuelsmod/Main.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1366&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.jdt.ui.CompilationUnitEditor</tags>
-          <tags>removeOnHide</tags>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_nyYqKR1WEeaLvvzwN1x1SQ" elementId="#CompilationUnitEditorContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitEditorContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.EditorContext</tags>
-            <tags>popup:#AbstractTextEditorContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_nyYqeB1WEeaLvvzwN1x1SQ" elementId="#CompilationUnitRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#CompilationUnitRulerContext</tags>
-            <tags>popup:org.eclipse.jdt.ui.CompilationUnitEditor.RulerContext</tags>
-            <tags>popup:#AbstractTextEditorRulerContext</tags>
-          </menus>
-          <menus xsi:type="menu:PopupMenu" xmi:id="_nyYqjB1WEeaLvvzwN1x1SQ" elementId="#OverviewRulerContext">
-            <tags>menuContribution:popup</tags>
-            <tags>popup:#OverviewRulerContext</tags>
-          </menus>
-        </children>
         <children xsi:type="basic:Part" xmi:id="_nyYqjR1WEeaLvvzwN1x1SQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="Fuels.java" iconURI="platform:/plugin/org.eclipse.jdt.ui/icons/full/obj16/jcu_obj.png" closeable="true">
           <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Fuels.java&quot; partName=&quot;Fuels.java&quot; title=&quot;Fuels.java&quot; tooltip=&quot;Minecraft/src/main/java/com/bored/morefuelsmod/Fuels.java&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/java/com/bored/morefuelsmod/Fuels.java&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;1259&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
@@ -187,7 +166,7 @@
           </menus>
         </children>
         <children xsi:type="basic:Part" xmi:id="_nyYq4x1WEeaLvvzwN1x1SQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="build.gradle" iconURI="platform:/plugin/org.eclipse.buildship.ui/icons/full/obj16/gradle_logo.png" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.buildship.ui.gradlebuildscripteditor&quot; name=&quot;build.gradle&quot; partName=&quot;build.gradle&quot; title=&quot;build.gradle&quot; tooltip=&quot;Minecraft/build.gradle&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/build.gradle&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;492&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.buildship.ui.gradlebuildscripteditor&quot; name=&quot;build.gradle&quot; partName=&quot;build.gradle&quot; title=&quot;build.gradle&quot; tooltip=&quot;Minecraft/build.gradle&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/build.gradle&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;317&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.buildship.ui.gradlebuildscripteditor</tags>
           <tags>removeOnHide</tags>
@@ -207,6 +186,12 @@
             <tags>menuContribution:popup</tags>
             <tags>popup:#OverviewRulerContext</tags>
           </menus>
+        </children>
+        <children xsi:type="basic:Part" xmi:id="_fGe88CMJEeakDNAXCE9tpg" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="mcmod.info" iconURI="platform:/plugin/org.eclipse.ui.editors/icons/full/obj16/file_obj.gif" closeable="true">
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.ui.DefaultTextEditor&quot; name=&quot;mcmod.info&quot; partName=&quot;mcmod.info&quot; title=&quot;mcmod.info&quot; tooltip=&quot;Minecraft/src/main/resources/mcmod.info&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/Minecraft/src/main/resources/mcmod.info&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <tags>Editor</tags>
+          <tags>org.eclipse.ui.DefaultTextEditor</tags>
+          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -352,7 +337,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_nyYrxB1WEeaLvvzwN1x1SQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_FyLHcCMGEeat-fSz2j6k_g" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_nyagMh1WEeaLvvzwN1x1SQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_Ywvi4CMJEeakDNAXCE9tpg" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_nyagMh1WEeaLvvzwN1x1SQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_nyYr0h1WEeaLvvzwN1x1SQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -376,7 +361,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_nyZQLB1WEeaLvvzwN1x1SQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_FyMVlCMGEeat-fSz2j6k_g" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_nyafqR1WEeaLvvzwN1x1SQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_YwxYECMJEeakDNAXCE9tpg" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_nyafqR1WEeaLvvzwN1x1SQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_nyZQOB1WEeaLvvzwN1x1SQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
