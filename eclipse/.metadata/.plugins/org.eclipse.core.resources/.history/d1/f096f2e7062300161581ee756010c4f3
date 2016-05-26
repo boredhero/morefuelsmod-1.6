@@ -2,6 +2,7 @@ package com.bored.morefuelsmod;
 
 import cpw.mods.fml.common.IFuelHandler;
 import net.minecraft.block.Block;
+import net.minecraft.block.BlockSand;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 
@@ -37,6 +38,36 @@ public class Fuels implements IFuelHandler {
 			return 100;
 		}
 		if(fuel.getItem() == Item.pumpkinSeeds){
+			return 100;
+		}
+		if(fuel.getItem() == Item.doorWood){
+			return 600;
+		}
+		if(fuel.getItem() == Item.minecartCrate){
+			return 400;
+		}
+		if(fuel.getItem() == Item.minecartTnt){
+			return 8180;
+		}
+		//Lets try 1.6 Blocks. Please work!
+		//Deadbush
+		if(fuel.getItem() == Item.itemsList[32]){
+			return 200;
+		}
+		//Cactus
+		if(fuel.getItem() == Item.itemsList[81]){
+			return 300;
+		}
+		//Cobweb
+		if(fuel.getItem() == Item.itemsList[30]){
+			return 160;
+		}
+		//Lever
+		if(fuel.getItem() == Item.itemsList[69]){
+			return 120;
+		}
+		//Grass
+		if(fuel.getItem() == Item.itemsList[31]){
 			return 100;
 		}
 		return 0;

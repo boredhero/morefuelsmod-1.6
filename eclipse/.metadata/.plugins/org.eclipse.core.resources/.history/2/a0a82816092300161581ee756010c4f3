@@ -10,55 +10,42 @@ public class Fuels implements IFuelHandler {
 
 	@Override
 	public int getBurnTime(ItemStack fuel) {
-		//Item Frame
 		if(fuel.getItem() == Item.itemFrame){
 			return 900;
 		}
-		//Bed
 		if(fuel.getItem() == Item.bed){
 			return 1500;
 		}
-		//Painting
 		if(fuel.getItem() == Item.painting){
 			return 1000;
 		}
-		//Sign
 		if(fuel.getItem() == Item.sign){
 			return 640;
 		}
-		//Arrow
 		if(fuel.getItem() == Item.arrow){
 			return 60;
 		}
-		//Feather
 		if(fuel.getItem() == Item.feather){
 			return 100;
 		}
-		//Wheat
 		if(fuel.getItem() == Item.wheat){
 			return 100;
 		}
-		//Wheat Seeds
 		if(fuel.getItem() == Item.seeds){
 			return 100;
 		}
-		//Melon Seeds
 		if(fuel.getItem() == Item.melonSeeds){
 			return 100;
 		}
-		//Pumpkin Seeds
 		if(fuel.getItem() == Item.pumpkinSeeds){
 			return 100;
 		}
-		//Wooden Door Item?
 		if(fuel.getItem() == Item.doorWood){
 			return 600;
 		}
-		//Minecart with Chest
 		if(fuel.getItem() == Item.minecartCrate){
 			return 400;
 		}
-		//Minecart with TNT
 		if(fuel.getItem() == Item.minecartTnt){
 			return 8180;
 		}
@@ -160,18 +147,6 @@ public class Fuels implements IFuelHandler {
 		//Unlit Redstone Torch
 		if(fuel.getItem() == Item.itemsList[75]){
 			return 120;
-		}
-		//Wooden Door
-		if(fuel.getItem() == Item.itemsList[64]){
-			return 600;
-		}
-		//Wooden Button
-		if(fuel.getItem() == Item.itemsList[143]){
-			return 300;
-		}
-		//TNT Block
-		if(fuel.getItem() == Item.itemsList[46]){
-			return 8080; 
 		}
 		return 0;
 	}
