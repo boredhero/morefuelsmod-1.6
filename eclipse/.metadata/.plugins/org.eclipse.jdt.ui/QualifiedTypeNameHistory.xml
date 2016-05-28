@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="net.minecraft.block.BlockSand"/>
 <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 </qualifiedTypeNameHistroy>
