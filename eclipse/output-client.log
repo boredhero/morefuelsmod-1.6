@@ -93,3 +93,10 @@
 2016-05-24 17:16:53 [CLIENT] [INFO] [CHAT] Given Shrub (ID 31) * 1 to Player765
 2016-05-24 17:17:00 [CLIENT] [INFO] [CHAT] '31:1' is not a valid number
 2016-05-24 17:17:17 [CLIENT] [INFO] Stopping!
+2016-05-28 12:01:17 [CLIENT] [INFO] Setting user: Player890
+2016-05-28 12:01:17 [CLIENT] [INFO] LWJGL Version: 2.9.0
+2016-05-28 12:01:18 [CLIENT] [INFO] Reloading ResourceManager: Default
+2016-05-28 12:01:19 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§4§lMore Fuels Mod
+2016-05-28 12:01:20 [CLIENT] [INFO] Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:§4§lMore Fuels Mod
+2016-05-28 12:01:20 [CLIENT] [SEVERE] Realms: Server not available!
+2016-05-28 12:01:33 [CLIENT] [INFO] Stopping!
