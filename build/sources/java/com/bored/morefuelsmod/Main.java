@@ -25,7 +25,7 @@ public class Main
     	config.load();
     	boolean enableRFtLrecipe = config.get(Configuration.CATEGORY_GENERAL, "enableRFtLrecipe", true).getBoolean(true);
     	if(enableRFtLrecipe)
-    		GameRegistry.addSmelting(367, new ItemStack(Item.leather), 0.3F);
+    		//GameRegistry.addSmelting(367, new ItemStack(Item.leather), 0.3F);
     	config.save();
     }
     @EventHandler

@@ -5,21 +5,78 @@
  R4wk, ZeuX, IngisKahn      
  MCP Data version : unknown
 ****************************
-:downloadClient SKIPPED
-:downloadServer SKIPPED
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0.pom
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/parent/2.9.0/parent-2.9.0.pom
+Download http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5.pom
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-windows.jar
+Download http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-windows.jar
+Download http://files.minecraftforge.net/maven/net/minecraftforge/forge/1.6.4-9.11.1.964/forge-1.6.4-9.11.1.964-userdev.jar
+:downloadClient
+:downloadServer
 :extractUserDev
-:mergeJars SKIPPED
-:applyBinPatches SKIPPED
-:downloadMcpTools UP-TO-DATE
+:mergeJars
+Adding cpw/mods/fml/relauncher/SideOnly.class
+Adding cpw/mods/fml/relauncher/Side.class
+:applyBinPatches
+:downloadMcpTools
 :genSrgs UP-TO-DATE
-:deobfBinJar UP-TO-DATE
+:deobfBinJar
+Applying SpecialSource...
+Applying Exceptor...
+Injecting source info...
 :compileApiJava UP-TO-DATE
 :processApiResources UP-TO-DATE
 :apiClasses UP-TO-DATE
-:sourceMainJava UP-TO-DATE
-:compileJava UP-TO-DATE
+:sourceMainJava
+:compileJava
+Download https://libraries.minecraft.net/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.pom
+Download http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.pom
+Download http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.pom
+Download https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.pom
+Download https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.pom
+Download https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.pom
+Download https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.pom
+Download https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.pom
+Download https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.pom
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.pom
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.pom
+Download https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.pom
+Download http://files.minecraftforge.net/maven/net/sourceforge/argo/argo/2.25/argo-2.25.pom
+Download http://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.pom
+Download http://repo1.maven.org/maven2/com/google/guava/guava/14.0/guava-14.0.pom
+Download http://repo1.maven.org/maven2/com/google/guava/guava-parent/14.0/guava-parent-14.0.pom
+Download http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.pom
+Download http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.pom
+Download http://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.2/gson-2.2.2.pom
+Download http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.2/scala-reflect-2.10.2.pom
+Download https://libraries.minecraft.net/net/minecraft/launchwrapper/1.8/launchwrapper-1.8.jar
+Download http://files.minecraftforge.net/maven/org/scala-lang/scala-library/2.10.2/scala-library-2.10.2.jar
+Download http://files.minecraftforge.net/maven/org/scala-lang/scala-compiler/2.10.2/scala-compiler-2.10.2.jar
+Download https://libraries.minecraft.net/lzma/lzma/0.0.1/lzma-0.0.1.jar
+Download https://libraries.minecraft.net/com/paulscode/codecjorbis/20101023/codecjorbis-20101023.jar
+Download https://libraries.minecraft.net/com/paulscode/codecwav/20101023/codecwav-20101023.jar
+Download https://libraries.minecraft.net/com/paulscode/libraryjavasound/20101123/libraryjavasound-20101123.jar
+Download https://libraries.minecraft.net/com/paulscode/librarylwjglopenal/20100824/librarylwjglopenal-20100824.jar
+Download https://libraries.minecraft.net/com/paulscode/soundsystem/20120107/soundsystem-20120107.jar
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl/2.9.0/lwjgl-2.9.0.jar
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl_util/2.9.0/lwjgl_util-2.9.0.jar
+Download https://libraries.minecraft.net/argo/argo/2.25_fixed/argo-2.25_fixed.jar
+Download http://files.minecraftforge.net/maven/net/sourceforge/argo/argo/2.25/argo-2.25.jar
+Download http://repo1.maven.org/maven2/org/bouncycastle/bcprov-jdk15on/1.47/bcprov-jdk15on-1.47.jar
+Download http://repo1.maven.org/maven2/com/google/guava/guava/14.0/guava-14.0.jar
+Download http://repo1.maven.org/maven2/commons-io/commons-io/2.4/commons-io-2.4.jar
+Download http://repo1.maven.org/maven2/net/java/jinput/jinput/2.0.5/jinput-2.0.5.jar
+Download http://repo1.maven.org/maven2/net/java/jutils/jutils/1.0.0/jutils-1.0.0.jar
+Download http://repo1.maven.org/maven2/com/google/code/gson/gson/2.2.2/gson-2.2.2.jar
+Download http://repo1.maven.org/maven2/org/scala-lang/scala-reflect/2.10.2/scala-reflect-2.10.2.jar
+Download http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-linux.jar
+Download http://repo1.maven.org/maven2/net/java/jinput/jinput-platform/2.0.5/jinput-platform-2.0.5-natives-osx.jar
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-linux.jar
+Download http://repo1.maven.org/maven2/org/lwjgl/lwjgl/lwjgl-platform/2.9.0/lwjgl-platform-2.9.0-natives-osx.jar
+warning: [options] bootstrap class path not set in conjunction with -source 1.6
+1 warning
 :processResources UP-TO-DATE
-:classes UP-TO-DATE
+:classes
 :jar
 :reobf
 :assemble
@@ -32,4 +89,4 @@
 
 BUILD SUCCESSFUL
 
-Total time: 3.884 secs
+Total time: 1 mins 8.045 secs
